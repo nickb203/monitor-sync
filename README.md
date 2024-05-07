@@ -34,3 +34,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/nickb203/monitor-sync.svg?style=for-the-badge
 [issues-url]: https://github.com/nickb203/monitor-sync/issues
 [license-shield]: https://img.shields.io/github/license/nickb203/monitor-sync.svg?style=for-the-badge
+[license-url]: https://github.com/nickb203/monitor-sync/blob/main/LICENSE
